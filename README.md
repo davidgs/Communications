@@ -120,17 +120,19 @@ Here is a short list of things I'm pretty good at and would more than happy to h
 
 If you have a project that needs to me *build* something, like some sensor hardware, or 3-D print something, I'm all in!
 
-I'm tech-support for my entire family, most of my friends, and a lot of other people. If you're having trouble with Linux or Mac, networking issues, iPhones, etc. I can likely help you solve it. If it's Windows, you're on your own. I only do Windows support for real $$. 
+I'm tech-support for my entire family, most of my friends, and a lot of other people. If you're having trouble with Linux or Mac, networking issues, iPhones, etc. I can likely help you solve it. If it's Windows, you're on your own. I only do Windows support for real $$.
 
 ## You can support me by…
-What areas would you like to improve in? We might be able to help!
+I really need to start using Java again as a programming language, so any encouragement or pointers to small tasks I can do in Java would be helpful.
 
-What areas do you feel like you might need a little bit more support? (e.g. is it easier if tasks are documented in writing after a meeting? do you typically have trouble delegating?)
-What are some of your career goals? Are there areas of the career path that you’d like to improve in and could use help with?
-Are there any “gotcha” areas that we can keep in mind on your behalf? (e.g. do you `yes` to every project automatically even when you should say `no` or `maybe`?)
-Are there any particular accommodations that would be helpful to you that haven’t already been mentioned?
+I'm terrible about remembering Action Items from meetings, so if we have a meeting, and there's something you need from me as a result of it, a quick Slack message or email with what you expect from me is super helpful.
 
-NOTE: You can also choose to include personal items in here as well (e.g. My kids are doing school from home, which makes my mornings more difficult for meetings; I deal with chronic headaches but most days I can work through the pain, etc.) This section requires a degree of trust. It’s up to you what you would like to include here.
+I am very likely to say `yes` to every project automatically even when I should say `no` or `maybe`. Especially if it involves writing some code to automate something. I sometimes will just go do a thing when not asked, so if it's really not an especially important thing, maybe mention to me that I shouldn't just go do it!
+
+**Personal Notes**: I deal with a coupole of issues on an on-going basis which may (or may not) be impacting me at any given time:
+- I suffer from chronic pain. Most days this isn't an issue for me as I've been dealing with it for so long but there are some days when it overwhelms me. I can get grumpy, short-tempered, etc. on those days. On a very few days I am completely debilitated by it and will be out.
+- I deal with tinnitus all the time. During zoom meetings, etc. this is generally not an issue. But if we ever go back to in-person events please understand that in group situations, especially those that have a high level of background noise -- I likely have great difficulty hearing and understanding what is being said. If ears were treated like any other medical condition I'd ideallly have hearing aids to help me deal with it but they aren't, so I don't.
+- I have ADD. It is well treated, but just know that if you see me having trouble listening or focusing during a meeting or elsewhere, it's likely due to that. Or the above-mentioned tinnitus.
 
 
 
