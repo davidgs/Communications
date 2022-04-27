@@ -1,4 +1,4 @@
-## A Guide to Working with David G. Simmons
+## Who the f&$% am I?
 
 - **Title:** Principal Developer Advocate
 - **Location:** Apex, NC
@@ -11,6 +11,10 @@
 Work accounts for a good portion of my time, of course, but it's not all of who I am.
 
 I lift weights, I hang with my dogs, etc. I love woodworking, but I don't have a shop right now.
+
+![Me with my family](images/davidgs-pix-3.jpeg)
+
+That big boy I'm holding is my Bruno ❤️
 
 ### Work
 I'm a Principal Developer Advocate (DR4) at [Camunda](https://camunda.com?ref=davidgsiot) which is a Business Process Automation company based in Berlin, Germany. I work remotely from my home on North Carolina USA.
