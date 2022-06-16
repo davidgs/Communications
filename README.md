@@ -1,4 +1,4 @@
-## Who the f&$% am I?
+## Who am I?
 
 - **Title:** Principal Developer Advocate
 - **Location:** Apex, NC
@@ -17,11 +17,11 @@ I lift weights, I hang with my dogs, etc. I love woodworking, but I don't have a
 That big boy I'm holding is my Bruno ❤️
 
 ### Work
-I'm a Principal Developer Advocate (DR4) at [Camunda](https://camunda.com?ref=davidgsiot) which is a Business Process Automation company based in Berlin, Germany. I work remotely from my home on North Carolina USA.
+I'm a Principal Developer Advocate at [Camunda](https://camunda.com?ref=davidgsiot) which is a Business Process Automation company based in Berlin, Germany. I work remotely from my home on North Carolina USA.
 
 I've been working remotely for 15+ years now so if you're looking for tips on how to be effective as a remote worker, I'm happy to talk to you about it!
 
-I am one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun). The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
+I was one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun) until recently. The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
 
 ### My career
 
