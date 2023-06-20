@@ -1,6 +1,6 @@
 ## Who am I?
 
-- **Title:** Head of Developer Advocacy
+- **Title:** Head of Developer Relations
 - **Location:** Apex, NC
 - **Working Hours & Timezone:** Roughly 8:00 am - 8:00 pm US Eastern Time. I don't work *all* of those hours, but that's pretty much when I can be considered `available`.
 - **Name Preference:** Please, don't call me Dave. I prefer David
@@ -17,11 +17,11 @@ I lift weights, I hang with my dogs, etc. I love woodworking, but I don't have a
 That big boy I'm holding is my Bruno ❤️
 
 ### Work
-I'm Head of Developer Advocacy at [StarTree](https://startree.ai). I work remotely from my home on North Carolina USA.
+I'm Head of Developer Relations at [Otterize](https://otterize.com). Previously I was Head of Developer Advocacy at [StarTree](https://startree.ai). I work remotely from my home on North Carolina USA.
 
 I've been working remotely for 15+ years now so if you're looking for tips on how to be effective as a remote worker, I'm happy to talk to you about it!
 
-I was one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun) until recently. The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
+I am one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun). The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
 
 ### My career
 
