@@ -17,9 +17,9 @@ I lift weights, I hang with my dogs, etc. I love woodworking, but I don't have a
 That big boy I'm holding is my Bruno ❤️
 
 ### Work
-I'm Head of Developer Relations at [Otterize](https://otterize.com). Previously I was Head of Developer Advocacy at [StarTree](https://startree.ai). I work remotely from my home on North Carolina USA.
+I'm Head of Developer Relations at [Zymbit](https://zymbit.com). I work remotely from my home on North Carolina USA and have worked remotely full-time since 2006.
 
-I've been working remotely for 15+ years now so if you're looking for tips on how to be effective as a remote worker, I'm happy to talk to you about it!
+If you're looking for tips on how to be effective as a remote worker, I'm happy to talk to you about it!
 
 I am one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun). The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
 
@@ -34,7 +34,8 @@ My Primary goal is to help people. I call it Being of Service™. It's sort of w
 ### Contacting me:
 
 - **Issues:** Feel free to file issues here about any project I'm working on, etc.
-- **Twitter:** Reach out any time on [twitter](https://twitter.com/davidgsIoT) about just about anything. DMs are always open too.
+- ~~**Twitter:** Reach out any time on [twitter](https://twitter.com/davidgsIoT) about just about anything. DMs are always open too.~~ Deleted.
+- **Bluesky:** https://bsky.app/profile/davidgs.com 
 - **Slack:** If you're in one of the many Slack communities I'm in, feel free to reach out there.
 - **Email:** Probably the least-reliable way to get me to respond. :-) But sure, [email me](mailto:davidgs@davidgs.com) if you feel absolutely compelled to.
 
